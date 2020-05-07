@@ -1,4 +1,4 @@
-# Udacity-Data-Scientist-Nanodegree-Capstone-Project
+<h2> Udacity-Data-Scientist-Nanodegree-Capstone-Project</h2>
 <hr>
 <h3> Starbuck's Capstone Challenge</h3>
 <p>This is the Udacity Data Science Nanodegree Capstone Project. In this project i have done Starbucks project.</p>
@@ -96,7 +96,7 @@ As a brief summary of my findings:
 <p>For Question 2,my decision to use 3 separate models to predict the effectiveness of each offer type ended up with good accuracy for the 2 of the models (82.83% for BOGO and 87.35% for discount), while slightly less accurate performance for another informational offers (75.3%). However, I would regard 75% as acceptable in a business setting, as for informational offers, there is no cost involved to inform users of a product. Meanwhile, an 80% and above accuracy in a business setting would be acceptable to show offers to people, even if the model misclassifies a few, the overall revenue increase might justify the few mistakes.</p>
 <hr>
 <h3> Results </h3>
-  All the finding and conclusion can be check in the Starbucks_Capstone_notebook.ipynb file.
+  All the finding and conclusion can be check in the **Starbucks_Capstone_notebook.ipynb** file.
 <hr>
 <h3>Licensing, Acknowledgement</h3>
 <p>All the data is provided by Udacity. All the credit i will to Udacity and Startbucks. Check the licensing information on the udacity website</p>
